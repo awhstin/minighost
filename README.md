@@ -1,9 +1,20 @@
 # MiniGhost - A minimal Ghost theme
 
+>Below are a few edits I made to the theme I thought people would want to use. 
+
 MiniGhost is a minimal yet neat frame for [Ghost](http://ghost.org/). It is an open source, mobile first, CSS3-oriented, Javascript-free (except modernizr), customizable theme for personal blogging.
 
-## Demo
-You can view a demo of MiniGhost at: [http://www.cheapyu.com/](http://www.cheapyu.com/)
+![Changes](minighost/Updates.PNG)
+
+**Added:**
+-Social media icons in the header
+-Changed date format from calendar to readout
+-Widened the default layout
+-Added feature image to front page
+
+
+
+Below are the original Features from the creator
 
 ## Features
 - Fast and neat - In order to improve loading speed, the entire MiniGhost theme is designed using CSS, Javascript is not used in the theme except for modernizr.
